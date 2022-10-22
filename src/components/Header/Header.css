@@ -42,7 +42,7 @@ header {
 
 .container-animation{
   position: relative;
-  bottom: -230px;
+  bottom: -150px;
   width: 100%;
   display: flex;
   justify-content: center;

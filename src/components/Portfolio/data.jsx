@@ -1,7 +1,7 @@
 const data = [
   {
     id: 1,
-    image: "../../../public/assets/projects__images/centralhd-background.jpg",
+    image: "/assets/projects__images/centralhd-background.jpg",
     title: "CentralHD / Website Movies",
     description: "Site de filmes feito utilizando API fornecida pelo TMDB.",
     technologies: "ReactJS / React-Router / Toastify / CSS",
@@ -10,7 +10,7 @@ const data = [
   },
   {
     id: 2,
-    image: "../../../public/assets/projects__images/financeSystem-background.jpg",
+    image: "/assets/projects__images/financeSystem-background.jpg",
     title: "Sistema de Financias",
     description: "Sistema de Financias feito utilizando bibliotecas do ReactJS",
     technologies: "ReactJS / Styled-Components",
@@ -19,7 +19,7 @@ const data = [
   },
   {
     id: 3,
-    image: "../../../public/assets/projects__images/qrcode__generator.png",
+    image: "/assets/projects__images/qrcode__generator.png",
     title: "Gerador de QRCODE",
     description:
       "Gerador de QRCODE simples feito utilizando bibliotecas do ReactJS",
