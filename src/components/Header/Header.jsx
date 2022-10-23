@@ -12,8 +12,8 @@ export const Header = () => {
       <header>
         <div className="container header__container">
           <h5>Olá, eu sou</h5>
-          <h1>
-            <TypeWriter className="writing__my-name"
+          <h1 className="writing__my-name">
+            <TypeWriter 
               onInit={(typewriter) => {
                 typewriter.start().typeString("Matheus Figueiredo");
               }}
