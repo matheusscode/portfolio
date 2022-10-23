@@ -101,6 +101,7 @@
   .about__cards {
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
+    margin: 30px;
   }
 
   .about__content {

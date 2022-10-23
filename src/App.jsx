@@ -10,6 +10,10 @@ import { Portfolio } from "./components/Portfolio/Portfolio"
 import { Contact } from "./components/Contact/Contact"
 import { Footer } from "./components/Footer/Footer"
 
+//TOASTIFY
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+
 export default function App() {
   return (
     <>
@@ -21,6 +25,7 @@ export default function App() {
       <Portfolio />
       <Contact />
       <Footer />
+      <ToastContainer autoClose={3000} />
     </>
   )
 }

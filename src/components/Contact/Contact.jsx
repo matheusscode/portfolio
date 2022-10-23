@@ -3,6 +3,7 @@ import { MdOutlineEmail } from "react-icons/md";
 import { BsWhatsapp } from "react-icons/bs";
 import { RiMessengerLine } from "react-icons/ri";
 import { useState } from "react";
+import { toast } from "react-toastify";
 import emailjs from "@emailjs/browser";
 
 export const Contact = () => {
@@ -14,7 +15,7 @@ export const Contact = () => {
     e.preventDefault();
 
     if (name === "" || email === "" || message === "") {
-      alert("PREENCHA TODOS OS CAMPOS");
+      toast.warn("PREENCHA TODOS OS CAMPOS");
       return;
     }
 
