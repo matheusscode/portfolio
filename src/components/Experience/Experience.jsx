@@ -22,29 +22,15 @@ export const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>CSS3</h4>
-                <small className="text-light">Experiente.</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>JavaScript</h4>
-                <small className="text-light">Experiente.</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>TypeScript</h4>
-                <small className="text-light">Basico.</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
-              <div>
                 <h4>React</h4>
                 <small className="text-light">Experiente</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>CSS3</h4>
+                <small className="text-light">Experiente.</small>
               </div>
             </article>
             <article className="experience__details">
@@ -57,7 +43,7 @@ export const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Styled-Components</h4>
+                <h4>JavaScript</h4>
                 <small className="text-light">Experiente.</small>
               </div>
             </article>
@@ -66,6 +52,28 @@ export const Experience = () => {
               <div>
                 <h4>Chackra UI</h4>
                 <small className="text-light">Experiente.</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>TypeScript</h4>
+                <small className="text-light">Basico.</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Styled-Components</h4>
+                <small className="text-light">Experiente.</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Next.JS</h4>
+                <small className="text-light">Estudando</small>
               </div>
             </article>
           </div>
