@@ -61,19 +61,18 @@ export const Experience = () => {
                 <small className="text-light">Basico.</small>
               </div>
             </article>
-
-            <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Styled-Components</h4>
-                <small className="text-light">Experiente.</small>
-              </div>
-            </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>Next.JS</h4>
                 <small className="text-light">Estudando</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Styled-Components</h4>
+                <small className="text-light">Experiente.</small>
               </div>
             </article>
           </div>
