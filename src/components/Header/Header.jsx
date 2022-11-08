@@ -9,7 +9,7 @@ import TypeWriter from "typewriter-effect";
 export const Header = () => {
   return (
     <div>
-      <header>
+      <header id="header">
         <div className="container header__container">
           <h5>Olá, eu sou</h5>
           <h1 className="writing__my-name">

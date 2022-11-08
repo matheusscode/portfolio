@@ -15,7 +15,7 @@ export const Footer = () => {
 
       <ul className="permalinks">
         <li>
-          <a href="#about">Início</a>
+          <a href="#header">Início</a>
         </li>
         <li>
           <a href="#about">Sobre mim</a>

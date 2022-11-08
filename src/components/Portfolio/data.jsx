@@ -27,6 +27,15 @@ const data = [
     githubLink: "https://github.com/matheusscode/qrcode-generator",
     demo: "https://qrcode-generator-ashen.vercel.app/",
   },
+  {
+    id: 4,
+    image: "/assets/projects__images/pokecenter.bmp",
+    title: "Pokécenter",
+    description: "Pokédex feita com ReactJS consumindo a API do PokéApi",
+    technologies: "ReactJS / React-Router / Styled-Components / Toastify",
+    githubLink: "https://github.com/matheusscode/pokecenter",
+    demo: "https://pokecenter.vercel.app/",
+  },
 ];
 
 export default data;
