@@ -19,7 +19,7 @@ export const Header = () => {
               }}
             />
           </h1> 
-          <h5 className="text-light">Front-End Developer</h5>
+          <h5 className="text-light">Programador Front-End</h5>
 
           <HeaderCTA />
           <HeaderSocials />

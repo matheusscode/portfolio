@@ -25,6 +25,10 @@
   border-color: var(--color-primary-variant);
 }
 
+.contact__option h5 {
+  word-wrap: break-word;
+}
+
 .contact__option-icon {
   font-size: 1.5rem;
   margin-bottom: 0.5rem;
@@ -86,5 +90,9 @@ textarea {
   .container.contact__container {
     width: var(--container-width-sm);
     margin: 30px;
+  }
+
+  form button {
+    margin: 0 auto;
   }
 }

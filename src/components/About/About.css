@@ -89,6 +89,13 @@
     margin: 1rem 0 1.5rem;
     padding: 20px;
   }
+
+  .about__card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
 }
 
 /* ================== MEDIA QUERIES (SMALL DEVICES) ================== */
@@ -111,5 +118,24 @@
 
   .about__content p {
     margin: 1.5rem 0;
+  }
+
+  .about__card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 430px) {
+
+  .about__card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 155px;
   }
 }
