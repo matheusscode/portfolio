@@ -48,7 +48,7 @@ export const Contact = () => {
   return (
     <section id="contact">
       <h5>Entrar em contato</h5>
-      <h2> Contate-me </h2>
+      <h2> Contacte-me </h2>
 
       <div className="container contact__container">
         <div className="contact__options">
