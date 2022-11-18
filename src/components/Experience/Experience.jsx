@@ -23,7 +23,7 @@ export const Experience = () => {
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>React</h4>
-                <small className="text-light">Experiente</small>
+                <small className="text-light">Avançado</small>
               </div>
             </article>
             <article className="experience__details">
@@ -44,14 +44,14 @@ export const Experience = () => {
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>JavaScript</h4>
-                <small className="text-light">Experiente.</small>
+                <small className="text-light">Avançado.</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>Chackra UI</h4>
-                <small className="text-light">Experiente.</small>
+                <small className="text-light">Nivel Médio.</small>
               </div>
             </article>
             <article className="experience__details">
@@ -72,7 +72,7 @@ export const Experience = () => {
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>Styled-Components</h4>
-                <small className="text-light">Experiente.</small>
+                <small className="text-light">Avançado.</small>
               </div>
             </article>
           </div>
@@ -87,6 +87,34 @@ export const Experience = () => {
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>Node.JS</h4>
+                <small className="text-light">Estudando.</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>MongoDB</h4>
+                <small className="text-light">Estudando.</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Express</h4>
+                <small className="text-light">Estudando.</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Padrão MVC</h4>
+                <small className="text-light">Estudando.</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Solid</h4>
                 <small className="text-light">Estudando.</small>
               </div>
             </article>
