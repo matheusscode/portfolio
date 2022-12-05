@@ -152,11 +152,10 @@ header {
   header {
     height: 68vh;
   }
-  
-  header h1{
-  font-size: 2rem; 
-  }
 
+  header h1 {
+    font-size: 2rem;
+  }
 }
 
 /* ================== MEDIA QUERIES (SMALL DEVICES) ================== */
